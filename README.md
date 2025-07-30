@@ -1,7 +1,7 @@
 # outback
 
 
-http://outback.jobability.co.kr
+https://aebonlee.github.io/outback/
 
 
 <img src="./outback.png"/>
